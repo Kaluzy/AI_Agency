@@ -1,0 +1,83 @@
+MARKET RESEARCH REPORT: AI-Powered Digital Marketing Agency
+Target Region: Greater Rockville MD (50-mile radius)
+Report Date: February 2026
+Prepared For: AI Services Business Plan
+
+,,,,,,
+SECTION: CITY ANALYSIS,,,,,,
+Cities within 50 miles of Rockville MD (population under 500K) evaluated for digital marketing opportunity,,,,,,
+,,,,,,
+City,Population,Distance_from_Rockville_mi,Est_Small_Businesses,Digital_Marketing_Competition(1-10),Opportunity_Score(1-100),Notes
+Frederick MD,78000,30,4500,5,82,Fast-growing city; 7700+ businesses countywide; median HHI $95K; 270 Tech Corridor hub; moderate agency competition with ~9 local agencies
+Hagerstown MD,44000,60,2200,3,75,Lower income market (median HHI $50K); 10% pop growth since 2010; limited local digital agencies; strong need for affordable packages
+Annapolis MD,40000,35,3800,7,68,State capital; high median HHI $104K; 66K+ businesses in Anne Arundel County; crowded agency market; premium pricing viable
+Columbia MD,104000,25,5200,6,78,Largest CDP in Howard County; highest median HHI $129K; 4100+ businesses in city proper; affluent consumer base; moderate competition
+Waldorf MD,77000,40,3100,3,85,Fastest-growing area; bedroom community for DC; median HHI $115K; low agency competition; 7700 businesses in broader area; underserved market
+
+,,,,,,
+SUMMARY STATISTICS,,,,,,
+Metric,Value,,,,,
+Total Target Population,343000,,,,,
+Total Estimated Small Businesses,18800,,,,,
+Average Opportunity Score,77.6,,,,,
+Highest Opportunity City,Waldorf MD (85),,,,,
+Lowest Competition City,Hagerstown MD / Waldorf MD (3/10),,,,,
+Closest City,Columbia MD (25 mi),,,,,
+
+,,,,,,
+SECTION: INDUSTRY ANALYSIS,,,,,,
+Top 10 target industries for AI-powered digital marketing services in the greater Rockville MD region,,,,,,
+,,,,,,
+Industry,Avg_Monthly_Revenue,SEO_Need(1-10),Online_Presence(1-10),Competition_for_SEO(1-10),Willingness_to_Pay(1-10),Opportunity_Score(1-100)
+Plumbing/HVAC,$85000,9,3,6,8,88
+Dentists,$75000,8,5,7,7,79
+Personal Injury Lawyers,$120000,10,6,9,9,82
+Roofing,$95000,9,2,5,8,90
+Landscaping,$45000,7,2,4,6,78
+Auto Repair,$55000,7,3,5,6,74
+Real Estate Agents,$65000,8,6,8,7,70
+Veterinarians,$70000,7,5,5,7,76
+Home Cleaning,$35000,8,2,3,7,83
+Restaurants,$50000,6,5,7,4,55
+
+,,,,,,
+INDUSTRY SCORING METHODOLOGY,,,,,,
+Factor,Weight,Description,,,,
+SEO_Need,25%,How critical is search visibility for customer acquisition,,,,
+Online_Presence,20%,Current digital maturity (lower = more opportunity),,,,
+Competition_for_SEO,20%,How competitive the SEO landscape is (lower competition = easier wins),,,,
+Willingness_to_Pay,20%,Budget availability and receptiveness to marketing spend,,,,
+Revenue_Potential,15%,Average monthly revenue indicating ability to sustain marketing investment,,,,
+
+,,,,,,
+SECTION: CITY x INDUSTRY OPPORTUNITY MATRIX,,,,,,
+Top 3 industry opportunities for each target city based on combined city and industry scores,,,,,,
+,,,,,,
+City,Top_Industry_1,Score_1,Top_Industry_2,Score_2,Top_Industry_3,Score_3
+Waldorf MD,Roofing,94,Plumbing/HVAC,92,Home Cleaning,88
+Frederick MD,Plumbing/HVAC,90,Roofing,89,Personal Injury Lawyers,85
+Columbia MD,Dentists,84,Personal Injury Lawyers,83,Veterinarians,82
+Hagerstown MD,Roofing,86,Home Cleaning,84,Plumbing/HVAC,83
+Annapolis MD,Personal Injury Lawyers,80,Dentists,78,Real Estate Agents,76
+
+,,,,,,
+TOP 10 OVERALL OPPORTUNITIES (City + Industry Combinations),,,,,,
+Rank,City,Industry,Combined_Score,Rationale,,,
+1,Waldorf MD,Roofing,94,Fastest-growing suburb + lowest competition + high-revenue industry with minimal online presence,,
+2,Waldorf MD,Plumbing/HVAC,92,Rapid residential growth driving demand + very few local digital agencies competing,,
+3,Frederick MD,Plumbing/HVAC,90,Large business base + growing population + moderate competition allows differentiation,,
+4,Frederick MD,Roofing,89,Significant construction activity ($203M commercial in FY2025) + strong homeowner base,,
+5,Waldorf MD,Home Cleaning,88,High dual-income households + low digital maturity in cleaning industry + underserved market,,
+6,Hagerstown MD,Roofing,86,Low competition market + affordable entry point + significant housing stock needing maintenance,,
+7,Frederick MD,Personal Injury Lawyers,85,High-traffic I-270/I-70 corridors + lawyers have highest willingness to pay for marketing,,
+8,Columbia MD,Dentists,84,Affluent population + high concentration of dental practices + strong ROI on dental SEO,,
+9,Hagerstown MD,Home Cleaning,84,Underserved market + growing population + very low digital marketing competition,,
+10,Columbia MD,Personal Injury Lawyers,83,Dense population + proximity to major highways + lawyers invest heavily in digital marketing,,
+
+,,,,,,
+PRICING BENCHMARKS,,,,,,
+Service_Tier,Monthly_Price,Target_Industries,Expected_Client_LTV,,,,
+Starter (Local SEO Only),$500-$800,Home Cleaning / Landscaping / Auto Repair,$6000-$9600,,
+Growth (SEO + PPC),$1200-$2000,Plumbing/HVAC / Roofing / Restaurants,$14400-$24000,,
+Premium (Full Suite),$2500-$4000,Dentists / Lawyers / Real Estate,$30000-$48000,,
+Enterprise (Custom AI),$4000-$6000,Personal Injury Lawyers / Multi-location,$48000-$72000,,
